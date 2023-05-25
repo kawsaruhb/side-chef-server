@@ -1,0 +1,224 @@
+[
+    {
+        "_id": "6a",
+        "category_id": "1",
+        "chef_img": "https://i.ibb.co/2jSsG9f/pexels-gustavo-fring-3983670.jpg",
+        "name": "Lauren Holdcroft",
+        "bio": "Hi, I'm Lauren, Recipe Editor at SideChef. Chipped dishware, breakfast for any meal, and eye-watering spice levels",
+        "experience": "8+ Years",
+        "nOf_recipes": 3,
+        "likes": 545,
+        "recipe1": {
+            "recipe_img": "https://i.ibb.co/1TrDgTg/appetizing-healthy-rice-with-vegetables-white-plate-wooden-table.jpg",
+            "recipe_name": "Mexican Rice",
+            "ingredients": "Brown Rice, Avocado Oil, Garlic , White Onion , Chicken Bone Broth, Ground Cumin, Lime",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.5
+            }
+        },
+        "recipe2": {
+            "recipe_img": "https://i.ibb.co/98C8Zr0/mexican-tacos-with-beef-tomato-sauce-salsa.jpg",
+            "recipe_name": "Mexican Tacos",
+            "ingredients": "White Corn Tortillas, Hot Sauce, Mexican Cheese , Onion , Butter,  Potato , Eggs, Salt",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.8
+            }
+        },
+        "recipe3": {
+            "recipe_img": "https://i.ibb.co/0FbBmy8/front-view-delicious-cabbage-salad-with-peppers-inside-plate-dark-background.jpg",
+            "recipe_name": "Mexican Coleslaw",
+            "ingredients": "Green Cabbage, Radishes, Avocado, Cilantro, Salt, Limes, Hot Sauce",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.7
+            }
+        }
+    },
+    {
+        "_id": "6b",
+        "category_id": "1",
+        "chef_img": "https://i.ibb.co/Dkh2DBR/petr-sevcovic-e5-Q5v-WO55u-U-unsplash.jpg",
+        "name": "Anthony Viyera",
+        "bio": "Hello, I'm Anthony. My specialties include Mexican and Italian cuisine as well as grilling & BBQ.",
+        "experience": "7+ Years",
+        "nOf_recipes": 3,
+        "likes": 620,
+        "recipe1": {
+            "recipe_img": "https://i.ibb.co/98C8Zr0/mexican-tacos-with-beef-tomato-sauce-salsa.jpg",
+            "recipe_name": "Mexican Tacos",
+            "ingredients": "White Corn Tortillas, Hot Sauce, Mexican Cheese , Onion , Butter,  Potato , Eggs, Salt",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.8
+            }
+        },
+        "recipe2": {
+            "recipe_img": "https://i.ibb.co/6NYfktD/delicious-pizza-concept-wooden-table.jpg",
+            "recipe_name": "Mexican Pizza",
+            "ingredients": "Flour Tortillas, Beef, Oil, Salsa, Cheese, Tomato, Sour Cream, Onion, Hot Sauce",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.9
+            }
+        },
+        "recipe3": {
+            "recipe_img": "https://i.ibb.co/0FbBmy8/front-view-delicious-cabbage-salad-with-peppers-inside-plate-dark-background.jpg",
+            "recipe_name": "Mexican Coleslaw",
+            "ingredients": "Green Cabbage, Radishes, Avocado, Cilantro, Salt, Limes, Hot Sauce",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.7
+            }
+        }
+    },
+    {
+        "_id": "6c",
+        "category_id": "1",
+        "chef_img": "https://i.ibb.co/DWfMdWD/becca-tapert-Rjm-Gz-Tg4-mw-unsplash.jpg",
+        "name": "Alexis Lyon",
+        "bio": "Hi,I'm Alexis. Expect to find classic comfort foods like fried chicken and midwestern cobblers that’ll rival your grandmas.",
+        "experience": "6+ Years",
+        "nOf_recipes": 3,
+        "likes": 610,
+        "recipe1": {
+            "recipe_img": "https://i.ibb.co/0FbBmy8/front-view-delicious-cabbage-salad-with-peppers-inside-plate-dark-background.jpg",
+            "recipe_name": "Mexican Coleslaw",
+            "ingredients": "Green Cabbage, Radishes, Avocado, Cilantro, Salt, Limes, Hot Sauce",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.7
+            }
+        },
+        "recipe2": {
+            "recipe_img": "https://i.ibb.co/98C8Zr0/mexican-tacos-with-beef-tomato-sauce-salsa.jpg",
+            "recipe_name": "Mexican Tacos",
+            "ingredients": "White Corn Tortillas, Hot Sauce, Mexican Cheese , Onion , Butter,  Potato , Eggs, Salt",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.8
+            }
+        },
+        "recipe3": {
+            "recipe_img": "https://i.ibb.co/0FbBmy8/front-view-delicious-cabbage-salad-with-peppers-inside-plate-dark-background.jpg",
+            "recipe_name": "Mexican Coleslaw",
+            "ingredients": "Green Cabbage, Radishes, Avocado, Cilantro, Salt, Limes, Hot Sauce",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.7
+            }
+        }
+    },
+    {
+        "_id": "6d",
+        "category_id": "1",
+        "chef_img": "https://i.ibb.co/MgGGtDC/pexels-tirachard-kumtanom-887827.jpg",
+        "name": "Alan Short",
+        "bio": "Hi, I’m Alan. Lady and Pups is an angry food blog and my misery outlet. Come share how I turn frustration and anger into a lovely meal.",
+        "experience": "6+ Years",
+        "nOf_recipes": 3,
+        "likes": 650,
+        "recipe1": {
+            "recipe_img": "https://i.ibb.co/ydfXh3X/sweet-potato-g136f77b75-1280.jpg",
+            "recipe_name": "Sweet Potato Mexican",
+            "ingredients": "Coconut Oil, Large Sweet Potatoes, Avocado, Cilantro, Mozzarella Cheese, Whole Kernel Corn, Sour Cream",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.3
+            }
+        },
+        "recipe2": {
+            "recipe_img": "https://i.ibb.co/98C8Zr0/mexican-tacos-with-beef-tomato-sauce-salsa.jpg",
+            "recipe_name": "Mexican Tacos",
+            "ingredients": "White Corn Tortillas, Hot Sauce, Mexican Cheese , Onion , Butter,  Potato , Eggs, Salt",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.8
+            }
+        },
+        "recipe3": {
+            "recipe_img": "https://i.ibb.co/0FbBmy8/front-view-delicious-cabbage-salad-with-peppers-inside-plate-dark-background.jpg",
+            "recipe_name": "Mexican Coleslaw",
+            "ingredients": "Green Cabbage, Radishes, Avocado, Cilantro, Salt, Limes, Hot Sauce",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.7
+            }
+        }
+    },
+    {
+        "_id": "6e",
+        "category_id": "1",
+        "chef_img": "https://i.ibb.co/h2xPrV7/abdalla-m-Lmv0-Y9q-IABc-unsplash.jpg",
+        "name": "Sam Ivan",
+        "bio": "Hi I'm Sam, the face of The Edgy Veg and I'm on a journey to revolutionize the food we define as “vegan”.",
+        "experience": "5+ Years",
+        "nOf_recipes": 3,
+        "likes": 650,
+        "recipe1": {
+            "recipe_img": "https://i.ibb.co/tZtQGt2/mexican-meal.jpg",
+            "recipe_name": "Skirt Steak Fajitas",
+            "ingredients": "Skirt Steak, Tortillas, Avocados, Olive Oil, Cilantro, Garlic, Lime, Red Chili",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.4
+            }
+        },
+        "recipe2": {
+            "recipe_img": "https://i.ibb.co/98C8Zr0/mexican-tacos-with-beef-tomato-sauce-salsa.jpg",
+            "recipe_name": "Mexican Tacos",
+            "ingredients": "White Corn Tortillas, Hot Sauce, Mexican Cheese , Onion , Butter,  Potato , Eggs, Salt",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.8
+            }
+        },
+        "recipe3": {
+            "recipe_img": "https://i.ibb.co/0FbBmy8/front-view-delicious-cabbage-salad-with-peppers-inside-plate-dark-background.jpg",
+            "recipe_name": "Mexican Coleslaw",
+            "ingredients": "Green Cabbage, Radishes, Avocado, Cilantro, Salt, Limes, Hot Sauce",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.7
+            }
+        }
+    },
+    {
+        "_id": "6f",
+        "category_id": "1",
+        "chef_img": "https://i.ibb.co/WPYRQBY/malte-helmhold-WNJlf2-K4r-M-unsplash.jpg",
+        "name": "Luis Kampus",
+        "bio": "Hi, I'm Luis, Recipe Editor at SideChef. I firmly believe that pastries and spicy food are the keys to my happiness.",
+        "experience": "5+ Years",
+        "nOf_recipes": 3,
+        "likes": 650,
+        "recipe1": {
+            "recipe_img": "https://i.ibb.co/6NYfktD/delicious-pizza-concept-wooden-table.jpg",
+            "recipe_name": "Mexican Pizza",
+            "ingredients": "Flour Tortillas, Beef, Oil, Salsa, Cheese, Tomato, Sour Cream, Onion, Hot Sauce",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.9
+            }
+        },
+        "recipe2": {
+            "recipe_img": "https://i.ibb.co/98C8Zr0/mexican-tacos-with-beef-tomato-sauce-salsa.jpg",
+            "recipe_name": "Mexican Tacos",
+            "ingredients": "White Corn Tortillas, Hot Sauce, Mexican Cheese , Onion , Butter,  Potato , Eggs, Salt",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.8
+            }
+        },
+        "recipe3": {
+            "recipe_img": "https://i.ibb.co/0FbBmy8/front-view-delicious-cabbage-salad-with-peppers-inside-plate-dark-background.jpg",
+            "recipe_name": "Mexican Coleslaw",
+            "ingredients": "Green Cabbage, Radishes, Avocado, Cilantro, Salt, Limes, Hot Sauce",
+            "method": " Frying, Grilling, and Boiling",
+            "rating": {
+                "number": 4.7
+            }
+        }
+    }
+]
